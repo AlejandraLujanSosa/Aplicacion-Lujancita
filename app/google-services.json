@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "972149900865",
+    "firebase_url": "https://aplicacion-lujancita.firebaseio.com",
+    "project_id": "aplicacion-lujancita",
+    "storage_bucket": "aplicacion-lujancita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972149900865:android:13bc43474060d95ddd28c0",
+        "android_client_info": {
+          "package_name": "prueba.app.firebase.aplicacionlujancita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972149900865-5u7ficq1gf0uonnthilc716v4atq3saq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prueba.app.firebase.aplicacionlujancita",
+            "certificate_hash": "219d28de59a12ed4484cac70c57cadee4c4dbe7e"
+          }
+        },
+        {
+          "client_id": "972149900865-hk3t00rsb1gh57ecodtf5hbj40o874jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXReN4lE8lRjHU2XiyDPW6Xct9eZtKheM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972149900865-hk3t00rsb1gh57ecodtf5hbj40o874jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

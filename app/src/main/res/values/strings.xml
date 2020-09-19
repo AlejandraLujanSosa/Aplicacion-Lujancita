@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplicacion Lujancita</string>
+    <string name="prefs_file">prueba.app.firebase.aplicacionlujancita.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">679305596054749</string>
+    <string name="fb_login_protocol_scheme">fb679305596054749</string>
+
+</resources>
